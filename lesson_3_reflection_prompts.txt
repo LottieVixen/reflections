@@ -6,3 +6,6 @@ Otherwise something you pull might cause issues with what you are currently work
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are githubs versions of clones, linking to the forked project, clones are what you do when you first join a project as it easily sets up the remote, and branches are for changes within a project that you want to experiement with
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+knowing you are working with the most recent version

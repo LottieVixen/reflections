@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The result of merging two branches together is basically putting two working copies together, it is represented the way it is because it has two parents
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros, saves times, cons sometimes cant do it properly
+

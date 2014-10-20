@@ -6,3 +6,11 @@ How is the staging area different from the working directory and the repository?
 	
 	Things can be added and removed before commiting.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	by checking it with `git diff`
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches would be great for major experiemental work or if a team worked on different parts of a project
+

@@ -14,3 +14,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branches would be great for major experiemental work or if a team worked on different parts of a project
 
+How do the diagrams help you visualize the branch structure?
+
+	They help you to see the unreachable commits
+

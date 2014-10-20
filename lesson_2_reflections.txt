@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	creates a .git directory to allow you to keep track of everything
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	Things can be added and removed before commiting.
+

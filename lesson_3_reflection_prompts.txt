@@ -9,3 +9,6 @@ Forks are githubs versions of clones, linking to the forked project, clones are 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 knowing you are working with the most recent version
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Talking in person would be the only way to make it easier but then transfering files would be a pain
